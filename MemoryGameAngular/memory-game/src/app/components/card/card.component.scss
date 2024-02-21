@@ -1,0 +1,17 @@
+.card {
+    background-color: #ccc;
+    border: 1px solid #aaa;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .flipped {
+    background-color: #fff;
+  }
+  .matched {
+    background-color: #8aff8a; /* or any color you prefer */
+  }

@@ -1,0 +1,4 @@
+<div class="card" (click)="flipCard(cardValue)" [ngClass]="{'flipped': isFlipped, 'matched': isMatched}">
+  <img *ngIf="isFlipped && !isMatched" [src]="'../../../assets/CardImages/' + cardValue.imageUrl" alt="">
+  <img *ngIf="!isFlipped || isMatched" src="../../../assets/CardImages/CardImages/backImage.png" alt="" width="80" height="122">
+</div>

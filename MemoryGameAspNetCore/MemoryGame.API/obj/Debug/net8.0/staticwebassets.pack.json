@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\1.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\1.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\10.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\10.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\11.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\11.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\12.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\12.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\13.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\13.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\14.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\14.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\15.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\15.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\16.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\16.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\17.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\17.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\18.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\18.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\19.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\19.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\2.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\2.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\20.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\20.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\3.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\3.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\4.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\4.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\5.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\5.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\6.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\6.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\7.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\7.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\8.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\8.jpg"
+    },
+    {
+      "Id": "E:\\Dev\\.net Core\\MemoryGame\\MemoryGame.API\\wwwroot\\CardImages\\9.jpg",
+      "PackagePath": "staticwebassets\\CardImages\\9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MemoryGame.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MemoryGame.API.props",
+      "PackagePath": "build\\MemoryGame.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MemoryGame.API.props",
+      "PackagePath": "buildMultiTargeting\\MemoryGame.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MemoryGame.API.props",
+      "PackagePath": "buildTransitive\\MemoryGame.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

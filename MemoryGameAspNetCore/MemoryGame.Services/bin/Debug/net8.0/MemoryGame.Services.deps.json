@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MemoryGame.Services/1.0.0": {
+        "dependencies": {
+          "MemoryGame.DomainModels": "1.0.0"
+        },
+        "runtime": {
+          "MemoryGame.Services.dll": {}
+        }
+      },
+      "MemoryGame.DomainModels/1.0.0": {
+        "runtime": {
+          "MemoryGame.DomainModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MemoryGame.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MemoryGame.DomainModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

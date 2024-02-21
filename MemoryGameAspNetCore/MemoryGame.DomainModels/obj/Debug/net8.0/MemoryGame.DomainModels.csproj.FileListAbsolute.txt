@@ -1,0 +1,11 @@
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\bin\Debug\net8.0\MemoryGame.DomainModels.deps.json
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\bin\Debug\net8.0\MemoryGame.DomainModels.dll
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\bin\Debug\net8.0\MemoryGame.DomainModels.pdb
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\obj\Debug\net8.0\MemoryGame.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\obj\Debug\net8.0\MemoryGame.DomainModels.AssemblyInfoInputs.cache
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\obj\Debug\net8.0\MemoryGame.DomainModels.AssemblyInfo.cs
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\obj\Debug\net8.0\MemoryGame.DomainModels.csproj.CoreCompileInputs.cache
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\obj\Debug\net8.0\MemoryGame.DomainModels.dll
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\obj\Debug\net8.0\refint\MemoryGame.DomainModels.dll
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\obj\Debug\net8.0\MemoryGame.DomainModels.pdb
+E:\Dev\.net Core\MemoryGame\MemoryGame.DomainModels\obj\Debug\net8.0\ref\MemoryGame.DomainModels.dll

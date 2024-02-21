@@ -1,0 +1,15 @@
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\bin\Debug\net8.0\MemoryGame.Services.deps.json
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\bin\Debug\net8.0\MemoryGame.Services.dll
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\bin\Debug\net8.0\MemoryGame.Services.pdb
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\bin\Debug\net8.0\MemoryGame.DomainModels.dll
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\bin\Debug\net8.0\MemoryGame.DomainModels.pdb
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\obj\Debug\net8.0\MemoryGame.Services.csproj.AssemblyReference.cache
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\obj\Debug\net8.0\MemoryGame.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\obj\Debug\net8.0\MemoryGame.Services.AssemblyInfoInputs.cache
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\obj\Debug\net8.0\MemoryGame.Services.AssemblyInfo.cs
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\obj\Debug\net8.0\MemoryGame.Services.csproj.CoreCompileInputs.cache
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\obj\Debug\net8.0\MemoryGame.Services.csproj.CopyComplete
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\obj\Debug\net8.0\MemoryGame.Services.dll
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\obj\Debug\net8.0\refint\MemoryGame.Services.dll
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\obj\Debug\net8.0\MemoryGame.Services.pdb
+E:\Dev\.net Core\MemoryGame\MemoryGame.Services\obj\Debug\net8.0\ref\MemoryGame.Services.dll

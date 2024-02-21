@@ -1,0 +1,24 @@
+<div *ngIf="!isGameFinished">
+  <div>
+    <ng-container *ngFor="let card of cardsLookup">
+      <p>Current Player : {{ card.currentPlayer }}</p>
+      <p>Player1 Score : {{ card.player1Score }}</p>
+      <p>Player2 Score : {{ card.player2Score }}</p>
+      <div class="board">
+        <app-card *ngFor="let card of card.cards" [cardValue]="card" [isFlipped]="card.isFlipped"
+          [isMatched]="card.isMatched" (cardClicked)="onCardClick(card)"></app-card>
+      </div>
+      <!-- <app-card
+        *ngFor="let card of card.cards"
+        [value]="card.value"
+        [isFlipped]="card.isFlipped"
+        [isMatched]="card.isMatched"
+        (cardClicked)="onCardClick(card)"
+      ></app-card> -->
+    </ng-container>
+  </div>
+</div>
+<div *ngIf="isGameFinished">
+  <p>Game Over!</p>
+  <button (click)="startNewGame()">Start New Game</button>
+</div>
